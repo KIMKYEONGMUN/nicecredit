@@ -164,7 +164,7 @@ header .inner .bottom .right figure {
 header .inner .bottom .right figure img {
     width: 100%;
     height: 100%;
-    object-fit: 100%;
+    object-fit: fill;
 }
 
 header .inner .bottom nav.pc > ul {
